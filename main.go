@@ -7,10 +7,9 @@ import (
 	"log"
 	"net/http"
 	"net/url"
-	"strings"
 	"time"
-
-	"github.com/gophercises/quiet_hn/hn"
+	"strings"
+	"github.com/petherin/gophercises_quiet_hn/hn"
 )
 
 func main() {
